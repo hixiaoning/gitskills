@@ -1,2 +1,2 @@
-﻿Cerateing a new branch is quick and simple. 
+﻿Cerateing a new branch is quick and simple.
 Hello
